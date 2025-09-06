@@ -1,3 +1,8 @@
+# TO-DO list React Project
+This is an introduction project coded along the tutorial from Web Dev Simplified
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
